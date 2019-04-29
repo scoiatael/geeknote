@@ -2,8 +2,8 @@ class Geeknote < Formula
   include Language::Python::Virtualenv
 
   desc "Command-line client for Evernote"
-  homepage 'https://github.com/jeffkowalski/geeknote'
-  head 'https://github.com/jeffkowalski/geeknote.git'
+  homepage 'https://github.com/scoiatael/geeknote'
+  head 'https://github.com/scoiatael/geeknote.git'
 
   depends_on "python@2"
 
